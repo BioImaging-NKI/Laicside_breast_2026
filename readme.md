@@ -3,7 +3,8 @@
 ## Groovy
 Scripts used in QuPath:
 * add_intensity_shape.groovy ; Add mean intensity and shape to detections
-* cellpose.groovy ; Generate a two channel image and run cellpose
+* cellpose_resections.groovy ; Generate a two channel image and run cellpose on resections
+* cellpose_TMA.groovy ; Generate a two channel image and run cellpose on TMA
 * cleanup.groovy ; Remove detections from the annotation boundry
 * warp_detections.groovy ; Apply a warpy transform on detections
 
