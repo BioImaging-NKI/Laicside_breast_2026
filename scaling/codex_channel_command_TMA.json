@@ -1,0 +1,226 @@
+[
+{
+"name": "DAPI",
+"nuclear": true,
+"membrane": false,
+"low": 170.2392,
+"high": 7710.5708
+},
+{
+"name": "Ki-67",
+"nuclear": false,
+"membrane": false,
+"low": 37.1415,
+"high": 13364.8975
+},
+{
+"name": "Vimentin",
+"nuclear": false,
+"membrane": true,
+"low": 76.6689,
+"high": 5004.0363
+},
+{
+"name": "Collagen IV",
+"nuclear": false,
+"membrane": false,
+"low": 13.0384,
+"high": 1055.9351
+},
+{
+"name": "Caveolin",
+"nuclear": false,
+"membrane": false,
+"low": 5.8907,
+"high": 715.7202
+},
+{
+"name": "PanCK",
+"nuclear": false,
+"membrane": true,
+"low": 7.4178,
+"high": 779.9868
+},
+{
+"name": "PHH3",
+"nuclear": false,
+"membrane": false,
+"low": 16.9745,
+"high": 4676.7705
+},
+{
+"name": "Desmine",
+"nuclear": false,
+"membrane": false,
+"low": 2.4578,
+"high": 81.1652
+},
+{
+"name": "CD20",
+"nuclear": false,
+"membrane": false,
+"low": 7.0711,
+"high": 698.6559
+},
+{
+"name": "CD3e",
+"nuclear": false,
+"membrane": true,
+"low": 15.2764,
+"high": 500
+},
+{
+"name": "CD8",
+"nuclear": false,
+"membrane": true,
+"low": 6.3691,
+"high": 300.9292
+},
+{
+"name": "CD31",
+"nuclear": false,
+"membrane": true,
+"low": 4.4818,
+"high": 389.7812
+},
+{
+"name": "CD68",
+"nuclear": false,
+"membrane": true,
+"low": 52.5139,
+"high": 7260.5776
+},
+{
+"name": "PD1",
+"nuclear": false,
+"membrane": false,
+"low": 3.4168,
+"high": 242.0648
+},
+{
+"name": "aSMA",
+"nuclear": false,
+"membrane": true,
+"low": 3.4443,
+"high": 781.5887
+},
+{
+"name": "PD-L1",
+"nuclear": false,
+"membrane": false,
+"low": 4.604,
+"high": 147.6698
+},
+{
+"name": "Podoplanin",
+"nuclear": false,
+"membrane": false,
+"low": 9.4788,
+"high": 245.1002
+},
+{
+"name": "E-cadherin",
+"nuclear": false,
+"membrane": true,
+"low": 8.809,
+"high": 100.2113
+},
+{
+"name": "CD4",
+"nuclear": false,
+"membrane": false,
+"low": 12.1528,
+"high": 1016.7319
+},
+{
+"name": "CD56",
+"nuclear": false,
+"membrane": false,
+"low": 7.9883,
+"high": 181.3541
+},
+{
+"name": "Histon H3",
+"nuclear": false,
+"membrane": false,
+"low": 217.2269,
+"high": 9225.6514
+},
+{
+"name": "FAP",
+"nuclear": false,
+"membrane": false,
+"low": 19.5841,
+"high": 916.6595
+},
+{
+"name": "P53",
+"nuclear": false,
+"membrane": false,
+"low": 8.3467,
+"high": 274.1217
+},
+{
+"name": "CD66b",
+"nuclear": false,
+"membrane": false,
+"low": 2.973,
+"high": 58.0802
+},
+{
+"name": "PDGFR-b",
+"nuclear": false,
+"membrane": false,
+"low": 45.2013,
+"high": 1693.0519
+},
+{
+"name": "CD138",
+"nuclear": false,
+"membrane": false,
+"low": 16.2615,
+"high": 321.4876
+},
+{
+"name": "Tryptase",
+"nuclear": false,
+"membrane": false,
+"low": 12.4642,
+"high": 879.55
+},
+{
+"name": "Collagen 1",
+"nuclear": false,
+"membrane": false,
+"low": 57.97,
+"high": 2916.6326
+},
+{
+"name": "S100",
+"nuclear": false,
+"membrane": false,
+"low": 3.4298,
+"high": 361.2754
+},
+{
+"name": "CK14",
+"nuclear": false,
+"membrane": false,
+"low": 2.4708,
+"high": 97.3929
+},
+{
+"name": "ER",
+"nuclear": false,
+"membrane": false,
+"low": 5.8742,
+"high": 1132.6039
+},
+{
+"name": "HER2",
+"nuclear": false,
+"membrane": false,
+"low": 10.7671,
+"high": 1642.4012
+}
+]
