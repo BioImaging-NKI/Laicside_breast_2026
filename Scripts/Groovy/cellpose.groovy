@@ -16,7 +16,7 @@ import qupath.lib.images.servers.PixelType
 import java.lang.reflect.Type
 import java.nio.file.Paths
 
-def jsonfile = Paths.get(QP.getProject().getPath().parent as String, "codex_channel_command_25032026_CRC.json").toFile()
+def jsonfile = Paths.get(QP.getProject().getPath().parent as String, "codex_channel_command.json").toFile()
 
 public class Channel {
     private boolean nuclear
@@ -99,8 +99,8 @@ def cellpose = Cellpose2D.builder( pathModel )
 
 // Run detection for the selected objects
 def imageData = QP.getCurrentImageData()
-def pathObjects = QP.getSelectedObjects()
-//def pathObjects = QP.getAnnotationObjects()
+//def pathObjects = QP.getSelectedObjects()
+def pathObjects = QP.getAnnotationObjects()
 if (pathObjects.isEmpty()) {
     Dialogs.showErrorMessage("Cellpose", "Please select a parent object!")
     return
@@ -110,7 +110,7 @@ println 'Done!'
 
 import qupath.lib.scripting.QP
 
-def THRESHOLD = 600
+def THRESHOLD = 1000
 def MEASUREMENT = "DAPI: Mean"
 def hierarchy = QP.getCurrentHierarchy()
 def detobj = hierarchy.getDetectionObjects()
