@@ -16,7 +16,7 @@ import qupath.lib.images.servers.PixelType
 import java.lang.reflect.Type
 import java.nio.file.Paths
 
-def jsonfile = Paths.get(QP.getProject().getPath().parent as String, "codex_channel_command.json").toFile()
+def jsonfile = Paths.get(QP.getProject().getPath().parent as String, "codex_channel_command_resections.json").toFile()
 
 public class Channel {
     private boolean nuclear
