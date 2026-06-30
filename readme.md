@@ -11,3 +11,6 @@ Scripts used in QuPath:
 
 ## ImageJ
 * Normalize_channels_and_create_JSON_file_for_QuPath ; Get the scaling for cellpose.groovy
+
+## Python
+* Class to load the .transform files from Warpy in Python
